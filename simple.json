@@ -1,0 +1,297 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "3796894911058465446",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T23:14:00-08:00",
+      "updated": "2022-01-24T23:31:23-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/in-year-ten-thousand.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3796894911058465446",
+      "title": "In the Year Ten Thousand",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3796894911058465446/comments"
+      },
+      "labels": [
+        "William Harben"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk1ODgzNzEzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5090002418420813668",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T23:13:00-08:00",
+      "updated": "2022-01-24T23:32:48-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-island-of-doctor-moreauthe-island.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5090002418420813668",
+      "title": "The Island of Doctor Moreau",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5090002418420813668/comments"
+      },
+      "labels": [
+        "by H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk1OTY4NTc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2319931119747518760",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T23:11:00-08:00",
+      "updated": "2022-01-24T23:36:07-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/2-b-r-0-2-b.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2319931119747518760",
+      "title": "2 B R 0 2 B",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2319931119747518760/comments"
+      },
+      "labels": [
+        "Jr.",
+        "Kurt Vonnegut"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2MTY3MzQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2931732260216365034",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T23:08:00-08:00",
+      "updated": "2022-01-24T23:37:51-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-invisible-man.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2931732260216365034",
+      "title": "The Invisible Man",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2931732260216365034/comments"
+      },
+      "labels": [
+        "H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2MjcxNjQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8552751457027136451",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T23:05:00-08:00",
+      "updated": "2022-01-24T23:38:47-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-war-of-worlds.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8552751457027136451",
+      "title": "The War of the Worlds",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8552751457027136451/comments"
+      },
+      "labels": [
+        "H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2MzI3MDg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4252337211277496858",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T23:01:00-08:00",
+      "updated": "2022-01-24T23:30:27-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/anthem.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4252337211277496858",
+      "title": "ANTHEM",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4252337211277496858/comments"
+      },
+      "labels": [
+        "Ayn Rand"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk1ODI3NzE1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1703749961507744200",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T22:58:00-08:00",
+      "updated": "2022-01-24T23:40:28-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-time-machine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1703749961507744200",
+      "title": "The Time Machine",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1703749961507744200/comments"
+      },
+      "labels": [
+        "H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2NDI4NDI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4557081869780764943",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T22:55:00-08:00",
+      "updated": "2022-01-24T23:41:37-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-strange-case-of-dr-jekyll-and-mr.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4557081869780764943",
+      "title": "The Strange Case Of Dr. Jekyll And Mr. Hyde",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4557081869780764943/comments"
+      },
+      "labels": [
+        "Robert Louis Stevenson"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2NDk3OTYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4795563607216468881",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T22:53:00-08:00",
+      "updated": "2022-01-24T23:42:32-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-eyes-have-it.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4795563607216468881",
+      "title": "The Eyes Have It",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4795563607216468881/comments"
+      },
+      "labels": [
+        "PHILIP K. DICK"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2NTUyNjM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6751911883701057043",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-24T22:51:00-08:00",
+      "updated": "2022-01-24T23:43:34-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/frankenstein-or-modern-prometheus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6751911883701057043",
+      "title": "Frankenstein; or, the Modern Prometheus",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6751911883701057043/comments"
+      },
+      "labels": [
+        "Mary Wollstonecraft (Godwin) Shelley"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2NjE0OTI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMi0wMS0yNVQwNzo0MzozNC45MjZa\""
+}
