@@ -3,6 +3,877 @@
   "items": [
     {
       "kind": "blogger#post",
+      "id": "7872163667283579896",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:55:00-08:00",
+      "updated": "2022-02-01T02:55:13-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/triplanetary.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/7872163667283579896",
+      "title": "TRIPLANETARY",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/7872163667283579896/comments"
+      },
+      "labels": [
+        "E. E. Smith"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzEyOTEzNTEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2321626041387586795",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:52:00-08:00",
+      "updated": "2022-02-01T02:52:02-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-world-set-free.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2321626041387586795",
+      "title": "The World Set Free",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2321626041387586795/comments"
+      },
+      "labels": [
+        "H.G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzEyNzIyMTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2157159766199142216",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:50:00-08:00",
+      "updated": "2022-02-01T02:50:39-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/deathworld.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2157159766199142216",
+      "title": "DEATHWORLD",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2157159766199142216/comments"
+      },
+      "labels": [
+        "HARRY HARRISON"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzEyNjM5OTQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8878144291422287523",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:48:00-08:00",
+      "updated": "2022-02-01T02:48:25-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-shunned-house.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8878144291422287523",
+      "title": "The Shunned House",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8878144291422287523/comments"
+      },
+      "labels": [
+        "H. P. LOVECRAFT"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzEyNTA1MTk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3188961282516607755",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:46:00-08:00",
+      "updated": "2022-02-01T02:46:48-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-hour-of-dragon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3188961282516607755",
+      "title": "THE HOUR OF THE DRAGON",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3188961282516607755/comments"
+      },
+      "labels": [
+        "Robert E. Howard"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzEyNDA4MDU2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8429223562049524491",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:44:00-08:00",
+      "updated": "2022-02-01T02:44:07-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-night-land.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8429223562049524491",
+      "title": "THE NIGHT LAND",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8429223562049524491/comments"
+      },
+      "labels": [
+        "William Hope Hodgson"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzEyMjQ3ODQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8633870391642838468",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:42:00-08:00",
+      "updated": "2022-02-01T02:42:17-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-house-on-borderland.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8633870391642838468",
+      "title": "THE HOUSE ON THE BORDERLAND",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8633870391642838468/comments"
+      },
+      "labels": [
+        "William Hope Hodgson"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzEyMTM3NDkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6101527995378508718",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T02:38:00-08:00",
+      "updated": "2022-02-01T02:38:17-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/tales-of-space-and-time.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6101527995378508718",
+      "title": "Tales of Space and Time",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6101527995378508718/comments"
+      },
+      "labels": [
+        "H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzExODk3ODg0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3206382755717026798",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T01:32:00-08:00",
+      "updated": "2022-02-01T01:32:47-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/a-pail-of-air.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3206382755717026798",
+      "title": "A Pail of Air",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3206382755717026798/comments"
+      },
+      "labels": [
+        "FRITZ LEIBER"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA3OTY3NDM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4231465392991582428",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T01:30:00-08:00",
+      "updated": "2022-02-01T01:30:59-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/youth.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4231465392991582428",
+      "title": "YOUTH",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4231465392991582428/comments"
+      },
+      "labels": [
+        "ISAAC ASIMOV"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA3ODU5MDMwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2560740288319838538",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T01:29:00-08:00",
+      "updated": "2022-02-01T01:29:16-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-big-trip-up-yonder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2560740288319838538",
+      "title": "THE BIG TRIP UP YONDER",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2560740288319838538/comments"
+      },
+      "labels": [
+        "JR",
+        "Kurt Vonnegut"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA3NzU2NzQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1604974894720785",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T01:27:00-08:00",
+      "updated": "2022-02-01T01:27:02-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-country-of-blind.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1604974894720785",
+      "title": "THE COUNTRY OF THE BLIND",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1604974894720785/comments"
+      },
+      "labels": [
+        "H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA3NjIyNTk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "849670907973586350",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:44:00-08:00",
+      "updated": "2022-02-01T00:44:18-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-door-in-wall-and-other-stories.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/849670907973586350",
+      "title": "The Door in the Wall And Other Stories",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/849670907973586350/comments"
+      },
+      "labels": [
+        "H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA1MDU4MDcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5525955493438130329",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:41:00-08:00",
+      "updated": "2022-02-01T00:41:28-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/beyond-lies-wub.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5525955493438130329",
+      "title": "BEYOND LIES THE WUB",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5525955493438130329/comments"
+      },
+      "labels": [
+        "PHILIP K. DICK"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA0ODg4MDEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4062300637292816291",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:39:00-08:00",
+      "updated": "2022-02-01T00:39:50-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/from-earth-to-moon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4062300637292816291",
+      "title": "From the Earth to the Moon",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/4062300637292816291/comments"
+      },
+      "labels": [
+        "Jules Verne"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA0NzkwMTQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8046650444402376197",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:37:00-08:00",
+      "updated": "2022-02-01T00:37:36-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-hanging-stranger.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8046650444402376197",
+      "title": "THE HANGING STRANGER",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8046650444402376197/comments"
+      },
+      "labels": [
+        "PHILIP K. DICK"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA0NjU2MTkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2063627069480338657",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:36:00-08:00",
+      "updated": "2022-02-01T00:36:09-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-dunwich-horror.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2063627069480338657",
+      "title": "The Dunwich Horror",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/2063627069480338657/comments"
+      },
+      "labels": [
+        "H. P. LOVECRAFT"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA0NTY5MDAxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6350211896338789636",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:32:00-08:00",
+      "updated": "2022-02-01T00:32:35-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/flatland-romance-of-many-dimensions.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6350211896338789636",
+      "title": "Flatland: A Romance of Many Dimensions",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6350211896338789636/comments"
+      },
+      "labels": [
+        "Edwin A. Abbott"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA0MzU1MjUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "539142416720959646",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:29:00-08:00",
+      "updated": "2022-02-01T00:29:45-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/twenty-thousand-leagues-under-seas.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/539142416720959646",
+      "title": "Twenty Thousand Leagues Under the Seas An Underwater Tour of the World",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/539142416720959646/comments"
+      },
+      "labels": [
+        "Jules Verne"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzA0MTg1Mzk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5291053853977434219",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:24:00-08:00",
+      "updated": "2022-02-01T00:24:38-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/the-mysterious-island.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5291053853977434219",
+      "title": "THE MYSTERIOUS ISLAND",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5291053853977434219/comments"
+      },
+      "labels": [
+        "Jules Verne"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAzODc4NDAyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6967367863519460020",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-02-01T00:18:00-08:00",
+      "updated": "2022-02-01T00:18:41-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/02/a-journey-to-centre-of-earth.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6967367863519460020",
+      "title": "A JOURNEY TO THE CENTRE OF THE EARTH",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6967367863519460020/comments"
+      },
+      "labels": [
+        "Jules Verne"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAzNTIxOTIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8510582681807337293",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-31T23:58:00-08:00",
+      "updated": "2022-02-01T00:04:17-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-lost-world.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8510582681807337293",
+      "title": "THE LOST WORLD",
+      "content": "",
+      "author": {
+        "id": "03286011044820943011",
+        "displayName": "sayang classic 90",
+        "url": "https://www.blogger.com/profile/03286011044820943011",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/8510582681807337293/comments"
+      },
+      "labels": [
+        "SIR ARTHUR CONAN DOYLE"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAyNjU3MzUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5070556314409036725",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-31T23:54:00-08:00",
+      "updated": "2022-02-01T00:03:42-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-time-machine_31.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5070556314409036725",
+      "title": "The Time Machine",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5070556314409036725/comments"
+      },
+      "labels": [
+        "H. G. Wells"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAyNjIyNzM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6316497403692450991",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-26T16:30:00-08:00",
+      "updated": "2022-02-01T00:05:21-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-light-machine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6316497403692450991",
+      "title": "The Light Machine",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6316497403692450991/comments"
+      },
+      "labels": [
+        "Ray Cummings"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAyNzIxMTU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1048192483692960235",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-26T16:28:00-08:00",
+      "updated": "2022-02-01T00:07:02-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/second-variety.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1048192483692960235",
+      "title": "SECOND VARIETY",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1048192483692960235/comments"
+      },
+      "labels": [
+        "PHILIP K. DICK"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAyODIyNTQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3578062209952218591",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-26T16:25:00-08:00",
+      "updated": "2022-02-01T00:08:27-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/looking-backward-from-2000-to-1887.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3578062209952218591",
+      "title": "LOOKING BACKWARD From 2000 to 1887",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3578062209952218591/comments"
+      },
+      "labels": [
+        "by Edward Bellamy"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAyOTA3MTY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3707121829990660540",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-26T16:22:00-08:00",
+      "updated": "2022-02-01T00:13:41-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/the-marching-morons.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3707121829990660540",
+      "title": "The Marching Morons",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/3707121829990660540/comments"
+      },
+      "labels": [
+        "KORNBLUTH"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAzMjIxMTAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6956918452686996071",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-26T16:19:00-08:00",
+      "updated": "2022-02-01T00:12:43-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/strange-case-of-dr-jekyll-and-mr-hyde.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6956918452686996071",
+      "title": "THE STRANGE CASE OF DR. JEKYLL AND MR. HYDE",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/6956918452686996071/comments"
+      },
+      "labels": [
+        "Robert Louis Stevenson"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAzMTYzNjc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1234257938431273121",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-26T16:15:00-08:00",
+      "updated": "2022-02-01T00:11:36-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/a-princess-of-mars.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1234257938431273121",
+      "title": "A PRINCESS OF MARS",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/1234257938431273121/comments"
+      },
+      "labels": [
+        "Edgar Rice Burroughs"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAzMDk2MzQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5670900591291270197",
+      "blog": {
+        "id": "6601056126110778927"
+      },
+      "published": "2022-01-26T16:11:00-08:00",
+      "updated": "2022-02-01T00:10:05-08:00",
+      "url": "http://sciencefictionapi.blogspot.com/2022/01/we.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5670900591291270197",
+      "title": "WE",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6601056126110778927/posts/5670900591291270197/comments"
+      },
+      "labels": [
+        "GREGORY ZILBOORG"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzNzAzMDA1MTkxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
       "id": "3796894911058465446",
       "blog": {
         "id": "6601056126110778927"
@@ -293,5 +1164,5 @@
       "etag": "\"dGltZXN0YW1wOiAxNjQzMDk2NjE0OTI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
     }
   ],
-  "etag": "\"MjAyMi0wMS0yNVQwNzo0MzozNC45MjZa\""
+  "etag": "\"MjAyMi0wMi0wMVQxMDo1NToxMy41MTBa\""
 }
